@@ -3,7 +3,7 @@
 Given a Uniswap token list URL, returns pricing information
 
 ```
-OVERVIEW: Uniswap List Info
+OVERVIEW: Uniswap Token List Info
 
 USAGE: unilist <url>
 
